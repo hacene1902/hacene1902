@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/github-banner.png" alt="Hacene Mahi - Software Developer" width="100%" />
+<img src="github-banner.png" alt="Hacene Mahi - Software Developer" width="100%" />
 
 # Hi 👋, I'm Hacene Mahi
 
