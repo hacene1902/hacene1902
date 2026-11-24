@@ -89,14 +89,18 @@ More information, screenshots and a project link will be added here when the pro
 - Application analysis and architecture
 - Computer networking fundamentals
 
-### Tools & IDEs
+### ⚙️ Tools & IDEs
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio" alt="Git, GitHub, VS Code, Visual Studio and Android Studio" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,eclipse" alt="Development Tools and IDEs" />
 </p>
 
----
-
+- **Eclipse IDE – Standard Edition**
+- **Eclipse IDE – Enterprise Edition (Java EE)**
+- Visual Studio
+- Visual Studio Code
+- Android Studio
+- Git & GitHub
 ## 📊 GitHub Statistics
 
 <div align="center">
